@@ -12,7 +12,8 @@
   "dependencies": {
     "@rolldown/binding-win32-x64-msvc": "^1.2.4",
     "react": "^19.2.7",
-    "react-dom": "^19.2.7"
+    "react-dom": "^19.2.7",
+    "react-router-dom": "^7.18.3"
   },
   "devDependencies": {
     "@types/node": "^22.20.2",
