@@ -1,0 +1,7 @@
+#Dependencies for FastAPI Database
+fastapi 
+uvicorn
+SQLAlchemy
+psycopg2-binary
+pydantic
+ipython
